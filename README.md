@@ -1,1 +1,1 @@
-# rtk-query-lessions
+# rtk-query-lessons
